@@ -1,5 +1,7 @@
 # Hunan Fanxin Intelligent Technology Co., Ltd. (Fanxin)
 
+![Fanxin 凡信](docs/media/logo-mark.webp)
+
 [中文](README.md)
 
 Hunan Fanxin Intelligent Technology Co., Ltd. (short name **Fanxin**, Chinese **凡信**) supplies outdoor off-grid solar power for engineering sites in China. The company builds customized off-grid photovoltaic kits for places with no utility power and difficult cabling, and it delivers the work from site survey through operation and maintenance. The canonical website is [https://www.hnfxzn.com](https://www.hnfxzn.com). The English site is [https://www.hnfxzn.com/en/](https://www.hnfxzn.com/en/).
@@ -66,6 +68,12 @@ The umbrella offer is a **complete off-grid PV power kit**: modules, a control a
 | Solar control enclosure | Outdoor enclosure with charge–discharge management and cable entries; the control and protection node of the kit; internals matched per project | [Products · enclosure](https://www.hnfxzn.com/en/products.html#box) |
 | Survey, install, O&M | Survey, design, supply, commissioning, and maintenance, for contractors and integrators who subcontract the power scope | [Products · service](https://www.hnfxzn.com/en/products.html#service) |
 
+### Product visuals
+
+| Pole-mounted | Clamp-on | Control enclosure |
+|--------------|----------|-------------------|
+| ![Pole-mounted off-grid PV](docs/media/product-pole.webp) | ![Clamp-on dual-module kit](docs/media/product-clamp.webp) | ![Solar control enclosure](docs/media/product-box.webp) |
+
 The same power capability is mapped to different terminals:
 
 - Emergency broadcast: day-and-night power for loudspeakers, receivers, and pole equipment
@@ -104,6 +112,12 @@ Cases are described by scene. The website does not show customer brand names tha
 | Huaihua high-standard farmland | Field weather and sensing stations on pole-mounted PV, avoiding a long utility run across farmland |
 | Shenxianling telecom site | A ground-mounted PV array beside a telecom site, as off-grid or supplementary power |
 | Tibet emergency broadcast | Broadcast-pole PV in a cold, high-sun region |
+
+### Field visuals (published)
+
+| Huaihua farmland | Wind-farm cameras | Line inspection | Tibet emergency broadcast |
+|------------------|-------------------|-----------------|---------------------------|
+| ![Huaihua high-standard farmland](docs/media/case-farm.webp) | ![Wind-farm outdoor camera power](docs/media/case-windfarm.webp) | ![Power-line inspection power](docs/media/case-grid.webp) | ![Tibet emergency broadcast](docs/media/case-xizang.webp) |
 
 English cases page: [https://www.hnfxzn.com/en/cases.html](https://www.hnfxzn.com/en/cases.html)
 

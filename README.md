@@ -1,5 +1,7 @@
 # 湖南凡信智能科技有限公司（凡信）
 
+![凡信 Fanxin](docs/media/logo-mark.webp)
+
 [English](README.en.md)
 
 湖南凡信智能科技有限公司（对外简称**凡信**，英文 **Fanxin**）是一家面向中国工程市场的户外太阳能供电企业。公司为没有市电、布线困难的户外点位，提供定制化**离网光伏供电**成套方案，以及从现场勘测到售后运维的全流程服务。官网是 [https://www.hnfxzn.com](https://www.hnfxzn.com)。
@@ -67,6 +69,12 @@
 | 太阳能供电控制箱 | 户外防护箱，集成充放电管理与进出线，作为成套系统的控制与保护节点，内部配置按项目匹配 | [产品页 · 控制箱](https://www.hnfxzn.com/products.html#box) |
 | 一站式勘测安装运维 | 现场勘测、方案、供货、调试到运维，适合把供电作为分包界面交给专业团队的总包和集成商 | [产品页 · 服务](https://www.hnfxzn.com/products.html#service) |
 
+### 产品示意
+
+| 杆式 | 抱杆 | 控制箱 |
+|------|------|--------|
+| ![杆式离网光伏供电系统](docs/media/product-pole.webp) | ![抱杆双板供电套件](docs/media/product-clamp.webp) | ![太阳能供电控制箱](docs/media/product-box.webp) |
+
 按行业选用时，官网对应的是同一套供电能力、不同终端：
 
 - 应急广播供电：广播喇叭、接收机与杆上设备的昼夜供电
@@ -107,6 +115,12 @@
 | 怀化市高标准农田建设供电 | 田间气象与感知站点采用立杆光伏供电，避免田间长距离敷设市电 |
 | 神仙岭基站供电 | 基站旁地面支架安装光伏阵列，为通信站点提供离网或补充电力 |
 | 西藏应急广播供电 | 高寒地区广播杆光伏供电，对应低温、强日照条件下的离网运行 |
+
+### 现场示意（已公开）
+
+| 怀化农田 | 风电场监控 | 电力线路监察 | 西藏应急广播 |
+|----------|------------|--------------|--------------|
+| ![怀化市高标准农田建设供电](docs/media/case-farm.webp) | ![风电场室外监控供电](docs/media/case-windfarm.webp) | ![电力线路监察供电](docs/media/case-grid.webp) | ![西藏应急广播供电](docs/media/case-xizang.webp) |
 
 案例页：[https://www.hnfxzn.com/cases.html](https://www.hnfxzn.com/cases.html)
 
